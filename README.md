@@ -9,6 +9,7 @@ Links
 - [images](C:\Users\alexg\Downloads\Oct_24\images)
 - [references](C:\Users\alexg\Downloads\Oct_24\references)
 ```````
+define function():
 name = input("enter your name: ")
 age = input("Enter your age: ")
 print("Hello " + name + "!")
