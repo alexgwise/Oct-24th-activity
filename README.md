@@ -1,13 +1,12 @@
 # Getting a head start on Homework
-![mckesson logo](C:\Users\alexg\Downloads\Oct_24\images\mckesson-logo.png)
+![mckesson logo](https://github.com/alexgwise/Oct_24/blob/main/images/mckesson-logo.png)
 ## I'll be creating a business case regarding Pharmaceutical contract pricing, and potential blockchain solutions
 ### *It will probably be pretty boring*
-saturday morning practice
-Links
-- [code](C:\Users\alexg\Downloads\Oct_24\code)
-- [data](C:\Users\alexg\Downloads\Oct_24\data)
-- [images](C:\Users\alexg\Downloads\Oct_24\images)
-- [references](C:\Users\alexg\Downloads\Oct_24\references)
+#### Table of Contents
+- [code](https://github.com/alexgwise/Oct_24/tree/main/code)
+- [data](https://github.com/alexgwise/Oct_24/tree/main/data)
+- [images](https://github.com/alexgwise/Oct_24/tree/main/images)
+- [references](https://github.com/alexgwise/Oct_24/tree/main/references)
 ```````
 define function():
 name = input("enter your name: ")
